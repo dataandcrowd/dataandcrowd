@@ -1,16 +1,19 @@
-### Hi there 👋
+### Researcher at Scotland dealing with Health and Simulation
 
-<!--
-**dataandcrowd/dataandcrowd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Children's Physical Activity using an agent-based model
+- 🌱 I’m currently learning :snake: Python, GAMA (GIS Agent-based Modeling Architecture), :pencil: Intro to Public Health
+- 👯 I’m looking to collaborate on: Urban Analytics, Agent-based models
+- 🤔 I’m looking for help with: GAMA Simulation 
+- 💬 Ask me about: GIS, Open Research, the Environment
+- :bicyclist:
+- 📫 How to reach me: shinhyesop@gmail.com
+
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] 
+
+[website]: https://dataandcrowd.rbind.io
+[twitter]: https://twitter.com/hyesop
