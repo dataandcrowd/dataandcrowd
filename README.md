@@ -1,4 +1,4 @@
-### Researcher at Scotland dealing with Health and Simulation
+### Researcher in Scotland dealing with Physical Activity and Traffic using agent-based simulation
 
 
 Here are some ideas to get you started:
