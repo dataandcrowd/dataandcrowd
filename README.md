@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with: GAMA Simulation 
 - 💬 Ask me about: GIS, Open Research, the Environment
 - :bicyclist:
-- 📫 How to reach me: shinhyesop@gmail.com
+- 📫 How to reach me: shinhyesop@gmail.com or hyesop.shin@glasgow.ac.uk
 
 
 🏡 [website][website] **|** 
