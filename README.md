@@ -1,4 +1,4 @@
-### Researcher in Scotland dealing with Physical Activity and Traffic using agent-based simulation
+### Researcher in NZ dealing with Physical Activity and Traffic using agent-based simulation
 
 
 Here are some ideas to get you started:
